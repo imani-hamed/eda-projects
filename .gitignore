@@ -10,12 +10,6 @@ __pycache__/
 venv/
 env/
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-*.parquet
-
 # OS files
 .DS_Store
 Thumbs.db
